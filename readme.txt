@@ -1,5 +1,5 @@
 [hr]
-[center][color=red][size=16pt][b]REAL TABS FOR ADMIN/MODERATOR MENU v1.0[/b][/size][/color]
+[center][color=red][size=16pt][b]REAL TABS FOR ADMIN/MODERATOR MENU v1.1[/b][/size][/color]
 [url=http://www.simplemachines.org/community/index.php?action=profile;u=253913][b]By Dougiefresh[/b][/url] -> [url=http://custom.simplemachines.org/mods/index.php?mod=3796]Link to Mod[/url]
 [/center]
 [hr]
@@ -13,10 +13,13 @@ In my opinion, phpBB has a nicer and less confusing layout of the admin menu.  T
 ~ The link tree underneath the description has been removed, as the subsections listed are now part of the sidebar.
 
 [color=blue][b][size=12pt][u]Compatibility Notes[/u][/size][/b][/color]
-This mod was tested on SMF 2.0.5, but should work on earlier versions of SMF 2.0.x.  SMF 1.x is not and will not be supported.
+This mod was tested on SMF 2.0.7, but should work on earlier versions of SMF 2.0.x.  SMF 1.x is not and will not be supported.
 
 [color=blue][b][size=12pt][u]Changelog[/u][/size][/b][/color]
-v1.0 - October 20th, 2013
+[b][u]v1.1 - June 16, 2014[/u][/b]
+o Fixed an undefined array index error in [b]GenericTabs.template.php[/b]
+
+[b][u]v1.0 - October 20th, 2013[/u][/b]
 o Initial Release
 
 [hr]
